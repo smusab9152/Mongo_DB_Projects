@@ -1,8 +1,20 @@
-# Mongo_DB_Projects
-This repository contains python based projects that aims to help understand Python and MongoDB. The frontend used is python tkinter and backend is MongoDB. The repository contains two projects, Book Management System and To-Do List 
-The Book management system has features like Add, Remove, Loan and Return the books based on Book Name, Author, Genre and ISBN Number. Also, you can import and export the dataset in csv file format.
-The To-Do List is a simple project that has the abiilty to add,remove and mark complete a task. The project also has a simple display feature that shows the tasks and thier details.
+MongoDB Projects
+This repository contains Python-based projects aimed at enhancing the understanding of Python and MongoDB. The frontend for both projects is developed using Tkinter, while MongoDB serves as the backend database.
 
-Please install the library given below to run both projects in your local machine.
+Projects Included
+1. Book Management System
+A full-featured application that allows users to:
+
+Add, remove, loan, and return books
+Manage book details like Name, Author, Genre, and ISBN
+Import and export the book dataset in CSV format
+2. To-Do List Application
+A simple yet effective project with the following features:
+
+Add, remove, and mark tasks as complete
+Display all tasks along with their due dates and priorities
+Prerequisites
+To run these projects on your local machine, ensure that the following libraries are installed:
+
 pymongo
 tkinter
